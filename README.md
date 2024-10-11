@@ -10,5 +10,7 @@ The weights used in this study is available via the following link: https://hugg
 
 # Requirements
 python3.10
+
 cuda-11.8
+
 pytorch
