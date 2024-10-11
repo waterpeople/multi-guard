@@ -5,3 +5,5 @@ Multi-Guard is a versatile framework for evaluating the safety compliance of mul
 # Dataset and weights
 
 The dataset used in this study is available for download via the following link: https://pan.baidu.com/s/1n74InQg0IyEWJ-FETrEHYw (Extraction code: accd) or https://huggingface.co/datasets/waterpeople/Multi-Guard/tree/main. Due to the sensitive nature of the dataset, if the link becomes invalid or inaccessible, please contact the corresponding author to request access to the dataset.
+
+The weights used in this study is available via the following link: https://huggingface.co/waterpeople/Multi-Guard/tree/main.
