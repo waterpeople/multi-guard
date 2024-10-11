@@ -8,9 +8,7 @@ The dataset used in this study is available for download via the following link:
 
 The weights used in this study is available via the following link: https://huggingface.co/waterpeople/Multi-Guard/tree/main.and you also download llama-guard3 weight from https://github.com/meta-llama/llama-recipes
 
-# Requirements
-python3.10
-
-cuda-11.8
-
-pytorch
+# Install Package
+conda create -n multiguard python=3.10 -y
+conda activate multiguard
+pip install -e .
