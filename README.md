@@ -18,4 +18,4 @@ pip install -e .
 # Quick Start
 the usage examlple is in the run_multiguard.py
 
-You only need to modify the picture path and the text information.
+You only need to modify the picture path(image_prompt) and the text(text_prompt).
