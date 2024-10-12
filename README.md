@@ -31,3 +31,33 @@ pip install -e .
 the usage example is in the run_multiguard.py
 
 You only need to modify the picture path(image_prompt) and the text(text_prompt).
+
+## Training by yourself
+
+
+
+Convert your data to a JSON file of a List of all samples. Sample metadata should contain `id` (a unique identifier), `image` (the path to the image), and `label` 
+
+A sample JSON for finetuning Multi-Guard :
+
+```json
+[
+  {
+    "id": "sex001",
+    "image": "part-000001/violence.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\ndescribe this picture."
+      },
+      {
+        "from": "gpt",
+        "value": "a man is killing a women."
+      },
+    ]
+  },
+  ...
+]
+```
+
+
