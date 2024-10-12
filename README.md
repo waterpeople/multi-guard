@@ -60,4 +60,8 @@ A sample JSON for finetuning Multi-Guard :
 ]
 ```
 
+Then, you can use `finetune-multiguard.sh` to fine-tune the multiguard.
+
+
+Finally, you need to use `merge-model.sh` to merge the fine-tuned model.
 
