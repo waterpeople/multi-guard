@@ -1,0 +1,2802 @@
+[
+    {
+        "id": "image_safe187",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/safe187.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "safe"
+            }
+        ]
+    },
+    {
+        "id": "image_sex123",
+        "image": " /root/Desktop/mydatasets/mydataset/train/all/sex123.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "sex"
+            }
+        ]
+    },
+    {
+        "id": "image_sex127",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/sex127.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "sex"
+            }
+        ]
+    },
+    {
+        "id": "image_safe311",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/safe311.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "safe"
+            }
+        ]
+    },
+    {
+        "id": "image_safe372",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/safe372.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "safe"
+            }
+        ]
+    },
+    {
+        "id": "image_violence24",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/violence24.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "violence"
+            }
+        ]
+    },
+    {
+        "id": "image_violence97",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/violence97.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "violence"
+            }
+        ]
+    },
+    {
+        "id": "image_sex10",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/sex10.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "sex"
+            }
+        ]
+    },
+    {
+        "id": "image_sex218",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/sex218.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "sex"
+            }
+        ]
+    },
+    {
+        "id": "image_violence46",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/violence46.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "violence"
+            }
+        ]
+    },
+    {
+        "id": "image_safe127",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/safe127.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "safe"
+            }
+        ]
+    },
+    {
+        "id": "image_violence134",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/violence134.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "violence"
+            }
+        ]
+    },
+    {
+        "id": "image_safe163",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/safe163.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "safe"
+            }
+        ]
+    },
+    {
+        "id": "image_safe259",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/safe259.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "safe"
+            }
+        ]
+    },
+    {
+        "id": "image_safe196",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/safe196.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "safe"
+            }
+        ]
+    },
+    {
+        "id": "image_safe87",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/safe87.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "safe"
+            }
+        ]
+    },
+    {
+        "id": "image_safe48",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/safe48.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "safe"
+            }
+        ]
+    },
+    {
+        "id": "image_sex62",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/sex62.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "sex"
+            }
+        ]
+    },
+    {
+        "id": "image_violence60",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/violence60.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "violence"
+            }
+        ]
+    },
+    {
+        "id": "image_safe154",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/safe154.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "safe"
+            }
+        ]
+    },
+    {
+        "id": "image_safe230",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/safe230.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "safe"
+            }
+        ]
+    },
+    {
+        "id": "image_safe379",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/safe379.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "safe"
+            }
+        ]
+    },
+    {
+        "id": "image_violence96",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/violence96.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "violence"
+            }
+        ]
+    },
+    {
+        "id": "image_safe405",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/safe405.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "safe"
+            }
+        ]
+    },
+    {
+        "id": "image_safe122",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/safe122.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "safe"
+            }
+        ]
+    },
+    {
+        "id": "image_safe101",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/safe101.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "safe"
+            }
+        ]
+    },
+    {
+        "id": "image_safe193",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/safe193.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "safe"
+            }
+        ]
+    },
+    {
+        "id": "image_sex30",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/sex30.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "sex"
+            }
+        ]
+    },
+    {
+        "id": "image_safe124",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/safe124.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "safe"
+            }
+        ]
+    },
+    {
+        "id": "image_violence173",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/violence173.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "violence"
+            }
+        ]
+    },
+    {
+        "id": "image_violence128",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/violence128.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "violence"
+            }
+        ]
+    },
+    {
+        "id": "image_sex7",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/sex7.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "sex"
+            }
+        ]
+    },
+    {
+        "id": "image_sex21",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/sex21.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "sex"
+            }
+        ]
+    },
+    {
+        "id": "image_sex198",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/sex198.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "sex"
+            }
+        ]
+    },
+    {
+        "id": "image_safe217",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/safe217.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "safe"
+            }
+        ]
+    },
+    {
+        "id": "image_violence83",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/violence83.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "violence"
+            }
+        ]
+    },
+    {
+        "id": "image_safe291",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/safe291.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "safe"
+            }
+        ]
+    },
+    {
+        "id": "image_safe377",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/safe377.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "safe"
+            }
+        ]
+    },
+    {
+        "id": "image_safe100",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/safe100.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "safe"
+            }
+        ]
+    },
+    {
+        "id": "image_violence26",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/violence26.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "violence"
+            }
+        ]
+    },
+    {
+        "id": "image_safe114",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/safe114.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "safe"
+            }
+        ]
+    },
+    {
+        "id": "image_safe46",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/safe46.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "safe"
+            }
+        ]
+    },
+    {
+        "id": "image_safe289",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/safe289.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "safe"
+            }
+        ]
+    },
+    {
+        "id": "image_violence8",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/violence8.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "violence"
+            }
+        ]
+    },
+    {
+        "id": "image_safe194",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/safe194.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "safe"
+            }
+        ]
+    },
+    {
+        "id": "image_safe298",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/safe298.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "safe"
+            }
+        ]
+    },
+    {
+        "id": "image_safe39",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/safe39.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "safe"
+            }
+        ]
+    },
+    {
+        "id": "image_safe31",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/safe31.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "safe"
+            }
+        ]
+    },
+    {
+        "id": "image_safe399",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/safe399.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "safe"
+            }
+        ]
+    },
+    {
+        "id": "image_safe44",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/safe44.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "safe"
+            }
+        ]
+    },
+    {
+        "id": "image_safe391",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/safe391.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "safe"
+            }
+        ]
+    },
+    {
+        "id": "image_sex42",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/sex42.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "sex"
+            }
+        ]
+    },
+    {
+        "id": "image_sex176",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/sex176.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "sex"
+            }
+        ]
+    },
+    {
+        "id": "image_sex223",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/sex223.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "sex"
+            }
+        ]
+    },
+    {
+        "id": "image_violence99",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/violence99.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "violence"
+            }
+        ]
+    },
+    {
+        "id": "image_safe375",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/safe375.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "safe"
+            }
+        ]
+    },
+    {
+        "id": "image_violence135",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/violence135.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "violence"
+            }
+        ]
+    },
+    {
+        "id": "image_safe309",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/safe309.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "safe"
+            }
+        ]
+    },
+    {
+        "id": "image_violence168",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/violence168.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "violence"
+            }
+        ]
+    },
+    {
+        "id": "image_sex146",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/sex146.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "sex"
+            }
+        ]
+    },
+    {
+        "id": "image_sex65",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/sex65.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "sex"
+            }
+        ]
+    },
+    {
+        "id": "image_sex158",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/sex158.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "sex"
+            }
+        ]
+    },
+    {
+        "id": "image_safe198",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/safe198.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "safe"
+            }
+        ]
+    },
+    {
+        "id": "image_violence18",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/violence18.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "violence"
+            }
+        ]
+    },
+    {
+        "id": "image_violence89",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/violence89.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "violence"
+            }
+        ]
+    },
+    {
+        "id": "image_violence30",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/violence30.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "violence"
+            }
+        ]
+    },
+    {
+        "id": "image_safe326",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/safe326.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "safe"
+            }
+        ]
+    },
+    {
+        "id": "image_safe300",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/safe300.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "safe"
+            }
+        ]
+    },
+    {
+        "id": "image_safe268",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/safe268.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "safe"
+            }
+        ]
+    },
+    {
+        "id": "image_sex28",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/sex28.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "sex"
+            }
+        ]
+    },
+    {
+        "id": "image_safe337",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/safe337.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "safe"
+            }
+        ]
+    },
+    {
+        "id": "image_sex87",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/sex87.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "sex"
+            }
+        ]
+    },
+    {
+        "id": "image_safe38",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/safe38.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "safe"
+            }
+        ]
+    },
+    {
+        "id": "image_violence86",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/violence86.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "violence"
+            }
+        ]
+    },
+    {
+        "id": "image_sex130",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/sex130.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "sex"
+            }
+        ]
+    },
+    {
+        "id": "image_sex136",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/sex136.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "sex"
+            }
+        ]
+    },
+    {
+        "id": "image_sex182",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/sex182.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "sex"
+            }
+        ]
+    },
+    {
+        "id": "image_safe392",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/safe392.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "safe"
+            }
+        ]
+    },
+    {
+        "id": "image_safe178",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/safe178.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "safe"
+            }
+        ]
+    },
+    {
+        "id": "image_violence132",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/violence132.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "violence"
+            }
+        ]
+    },
+    {
+        "id": "image_violence7",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/violence7.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "violence"
+            }
+        ]
+    },
+    {
+        "id": "image_safe75",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/safe75.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "safe"
+            }
+        ]
+    },
+    {
+        "id": "image_safe70",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/safe70.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "safe"
+            }
+        ]
+    },
+    {
+        "id": "image_safe2",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/safe2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "safe"
+            }
+        ]
+    },
+    {
+        "id": "image_safe94",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/safe94.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "safe"
+            }
+        ]
+    },
+    {
+        "id": "image_sex144",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/sex144.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "sex"
+            }
+        ]
+    },
+    {
+        "id": "image_safe133",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/safe133.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "safe"
+            }
+        ]
+    },
+    {
+        "id": "image_safe349",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/safe349.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "safe"
+            }
+        ]
+    },
+    {
+        "id": "image_violence42",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/violence42.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "violence"
+            }
+        ]
+    },
+    {
+        "id": "image_violence28",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/violence28.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "violence"
+            }
+        ]
+    },
+    {
+        "id": "image_safe367",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/safe367.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "safe"
+            }
+        ]
+    },
+    {
+        "id": "image_violence34",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/violence34.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "violence"
+            }
+        ]
+    },
+    {
+        "id": "image_safe22",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/safe22.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "safe"
+            }
+        ]
+    },
+    {
+        "id": "image_sex143",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/sex143.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "sex"
+            }
+        ]
+    },
+    {
+        "id": "image_safe361",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/safe361.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "safe"
+            }
+        ]
+    },
+    {
+        "id": "image_safe85",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/safe85.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "safe"
+            }
+        ]
+    },
+    {
+        "id": "image_violence38",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/violence38.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "violence"
+            }
+        ]
+    },
+    {
+        "id": "image_violence127",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/violence127.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "violence"
+            }
+        ]
+    },
+    {
+        "id": "image_sex132",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/sex132.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "sex"
+            }
+        ]
+    },
+    {
+        "id": "image_violence129",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/violence129.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "violence"
+            }
+        ]
+    },
+    {
+        "id": "image_safe51",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/safe51.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "safe"
+            }
+        ]
+    },
+    {
+        "id": "image_sex92",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/sex92.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "sex"
+            }
+        ]
+    },
+    {
+        "id": "image_safe89",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/safe89.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "safe"
+            }
+        ]
+    },
+    {
+        "id": "image_violence63",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/violence63.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "violence"
+            }
+        ]
+    },
+    {
+        "id": "image_safe240",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/safe240.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "safe"
+            }
+        ]
+    },
+    {
+        "id": "image_safe368",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/safe368.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "safe"
+            }
+        ]
+    },
+    {
+        "id": "image_safe84",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/safe84.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "safe"
+            }
+        ]
+    },
+    {
+        "id": "image_sex83",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/sex83.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "sex"
+            }
+        ]
+    },
+    {
+        "id": "image_safe306",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/safe306.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "safe"
+            }
+        ]
+    },
+    {
+        "id": "image_sex23",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/sex23.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "sex"
+            }
+        ]
+    },
+    {
+        "id": "image_sex230",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/sex230.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "sex"
+            }
+        ]
+    },
+    {
+        "id": "image_safe139",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/safe139.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "safe"
+            }
+        ]
+    },
+    {
+        "id": "image_violence95",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/violence95.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "violence"
+            }
+        ]
+    },
+    {
+        "id": "image_sex24",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/sex24.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "sex"
+            }
+        ]
+    },
+    {
+        "id": "image_safe64",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/safe64.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "safe"
+            }
+        ]
+    },
+    {
+        "id": "image_safe312",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/safe312.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "safe"
+            }
+        ]
+    },
+    {
+        "id": "image_sex31",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/sex31.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "sex"
+            }
+        ]
+    },
+    {
+        "id": "image_safe343",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/safe343.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "safe"
+            }
+        ]
+    },
+    {
+        "id": "image_sex149",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/sex149.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "sex"
+            }
+        ]
+    },
+    {
+        "id": "image_safe426",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/safe426.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "safe"
+            }
+        ]
+    },
+    {
+        "id": "image_safe131",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/safe131.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "safe"
+            }
+        ]
+    },
+    {
+        "id": "image_safe269",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/safe269.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "safe"
+            }
+        ]
+    },
+    {
+        "id": "image_violence88",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/violence88.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "violence"
+            }
+        ]
+    },
+    {
+        "id": "image_sex63",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/sex63.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "sex"
+            }
+        ]
+    },
+    {
+        "id": "image_safe6",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/safe6.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "safe"
+            }
+        ]
+    },
+    {
+        "id": "image_sex204",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/sex204.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "sex"
+            }
+        ]
+    },
+    {
+        "id": "image_safe146",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/safe146.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "safe"
+            }
+        ]
+    },
+    {
+        "id": "image_safe14",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/safe14.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "safe"
+            }
+        ]
+    },
+    {
+        "id": "image_violence27",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/violence27.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "violence"
+            }
+        ]
+    },
+    {
+        "id": "image_safe401",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/safe401.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "safe"
+            }
+        ]
+    },
+    {
+        "id": "image_safe61",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/safe61.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "safe"
+            }
+        ]
+    },
+    {
+        "id": "image_violence159",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/violence159.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "violence"
+            }
+        ]
+    },
+    {
+        "id": "image_violence5",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/violence5.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "violence"
+            }
+        ]
+    },
+    {
+        "id": "image_sex191",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/sex191.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "sex"
+            }
+        ]
+    },
+    {
+        "id": "image_violence147",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/violence147.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "violence"
+            }
+        ]
+    },
+    {
+        "id": "image_safe52",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/safe52.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "safe"
+            }
+        ]
+    },
+    {
+        "id": "image_safe160",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/safe160.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "safe"
+            }
+        ]
+    },
+    {
+        "id": "image_sex155",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/sex155.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "sex"
+            }
+        ]
+    },
+    {
+        "id": "image_safe322",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/safe322.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "safe"
+            }
+        ]
+    },
+    {
+        "id": "image_violence122",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/violence122.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "violence"
+            }
+        ]
+    },
+    {
+        "id": "image_violence51",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/violence51.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "violence"
+            }
+        ]
+    },
+    {
+        "id": "image_safe325",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/safe325.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "safe"
+            }
+        ]
+    },
+    {
+        "id": "image_safe231",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/safe231.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "safe"
+            }
+        ]
+    },
+    {
+        "id": "image_violence35",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/violence35.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "violence"
+            }
+        ]
+    },
+    {
+        "id": "image_sex217",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/sex217.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "sex"
+            }
+        ]
+    },
+    {
+        "id": "image_safe378",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/safe378.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "safe"
+            }
+        ]
+    },
+    {
+        "id": "image_violence50",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/violence50.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "violence"
+            }
+        ]
+    },
+    {
+        "id": "image_violence65",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/violence65.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "violence"
+            }
+        ]
+    },
+    {
+        "id": "image_safe109",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/safe109.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "safe"
+            }
+        ]
+    },
+    {
+        "id": "image_sex225",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/sex225.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "sex"
+            }
+        ]
+    },
+    {
+        "id": "image_sex137",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/sex137.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "sex"
+            }
+        ]
+    },
+    {
+        "id": "image_sex44",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/sex44.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "sex"
+            }
+        ]
+    },
+    {
+        "id": "image_safe166",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/safe166.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "safe"
+            }
+        ]
+    },
+    {
+        "id": "image_safe264",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/safe264.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "safe"
+            }
+        ]
+    },
+    {
+        "id": "image_sex84",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/sex84.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "sex"
+            }
+        ]
+    },
+    {
+        "id": "image_safe277",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/safe277.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "safe"
+            }
+        ]
+    },
+    {
+        "id": "image_violence146",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/violence146.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "violence"
+            }
+        ]
+    },
+    {
+        "id": "image_safe314",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/safe314.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "safe"
+            }
+        ]
+    },
+    {
+        "id": "image_sex110",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/sex110.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "sex"
+            }
+        ]
+    },
+    {
+        "id": "image_safe329",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/safe329.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "safe"
+            }
+        ]
+    },
+    {
+        "id": "image_safe184",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/safe184.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "safe"
+            }
+        ]
+    },
+    {
+        "id": "image_sex120",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/sex120.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "sex"
+            }
+        ]
+    },
+    {
+        "id": "image_safe43",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/safe43.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "safe"
+            }
+        ]
+    },
+    {
+        "id": "image_violence157",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/violence157.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "violence"
+            }
+        ]
+    },
+    {
+        "id": "image_safe195",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/safe195.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "safe"
+            }
+        ]
+    },
+    {
+        "id": "image_violence23",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/violence23.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "violence"
+            }
+        ]
+    },
+    {
+        "id": "image_sex184",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/sex184.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "sex"
+            }
+        ]
+    },
+    {
+        "id": "image_sex220",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/sex220.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "sex"
+            }
+        ]
+    },
+    {
+        "id": "image_safe225",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/safe225.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "safe"
+            }
+        ]
+    },
+    {
+        "id": "image_safe78",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/safe78.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "safe"
+            }
+        ]
+    },
+    {
+        "id": "image_safe332",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/safe332.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "safe"
+            }
+        ]
+    },
+    {
+        "id": "image_violence158",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/violence158.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "violence"
+            }
+        ]
+    },
+    {
+        "id": "image_violence100",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/violence100.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "violence"
+            }
+        ]
+    },
+    {
+        "id": "image_sex181",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/sex181.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "sex"
+            }
+        ]
+    },
+    {
+        "id": "image_violence3",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/violence3.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "violence"
+            }
+        ]
+    },
+    {
+        "id": "image_sex170",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/sex170.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "sex"
+            }
+        ]
+    },
+    {
+        "id": "image_violence102",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/violence102.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "violence"
+            }
+        ]
+    },
+    {
+        "id": "image_violence71",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/violence71.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "violence"
+            }
+        ]
+    },
+    {
+        "id": "image_safe4",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/safe4.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "safe"
+            }
+        ]
+    },
+    {
+        "id": "image_safe310",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/safe310.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "safe"
+            }
+        ]
+    },
+    {
+        "id": "image_sex211",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/sex211.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "sex"
+            }
+        ]
+    },
+    {
+        "id": "image_sex74",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/sex74.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "sex"
+            }
+        ]
+    },
+    {
+        "id": "image_sex27",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/sex27.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "sex"
+            }
+        ]
+    },
+    {
+        "id": "image_safe141",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/safe141.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "safe"
+            }
+        ]
+    },
+    {
+        "id": "image_violence123",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/violence123.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "violence"
+            }
+        ]
+    },
+    {
+        "id": "image_violence44",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/violence44.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "violence"
+            }
+        ]
+    },
+    {
+        "id": "image_safe29",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/safe29.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "safe"
+            }
+        ]
+    },
+    {
+        "id": "image_safe356",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/safe356.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "safe"
+            }
+        ]
+    },
+    {
+        "id": "image_safe153",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/safe153.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "safe"
+            }
+        ]
+    },
+    {
+        "id": "image_safe233",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/safe233.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "safe"
+            }
+        ]
+    },
+    {
+        "id": "image_safe266",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/safe266.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "safe"
+            }
+        ]
+    },
+    {
+        "id": "image_violence145",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/violence145.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "violence"
+            }
+        ]
+    },
+    {
+        "id": "image_sex9",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/sex9.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "sex"
+            }
+        ]
+    },
+    {
+        "id": "image_safe136",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/safe136.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "safe"
+            }
+        ]
+    },
+    {
+        "id": "image_safe316",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/safe316.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "safe"
+            }
+        ]
+    },
+    {
+        "id": "image_safe119",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/safe119.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "safe"
+            }
+        ]
+    },
+    {
+        "id": "image_violence161",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/violence161.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "violence"
+            }
+        ]
+    },
+    {
+        "id": "image_safe359",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/safe359.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "safe"
+            }
+        ]
+    },
+    {
+        "id": "image_safe18",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/safe18.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "safe"
+            }
+        ]
+    },
+    {
+        "id": "image_sex29",
+        "image": "/root/Desktop/mydatasets/mydataset/train/all/sex29.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ndescribe this picture."
+            },
+            {
+                "from": "gpt",
+                "value": "sex"
+            }
+        ]
+    }
+]
